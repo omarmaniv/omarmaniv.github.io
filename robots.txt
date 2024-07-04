@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://omarmaniv.github.io/sitemap
+Sitemap: https://omarmaniv.github.io/app/sitemap
+Sitemap: https://omarmaniv.github.io/assets/sitemap
+Sitemap: https://omarmaniv.github.io/css/sitemap
+Sitemap: https://omarmaniv.github.io/includes/sitemap
+Sitemap: https://omarmaniv.github.io/item/sitemap
+Sitemap: https://omarmaniv.github.io/src/sitemap
